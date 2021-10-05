@@ -45,6 +45,10 @@ body .content .vars .text > div.active {
   justify-content: center;
 }
 
+body .content .vars .text .second p, body .content .vars .text .third p, body .content .vars .text .win p {
+  width: 100%;
+}
+
 body .content .vars .first.hidden {
   display: none;
 }
