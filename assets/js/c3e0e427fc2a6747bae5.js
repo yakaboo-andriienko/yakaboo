@@ -1,0 +1,1 @@
+$((function(){$(".oferta").click((function(a){a.preventDefault(),$(".shadow").addClass("active")}))}));

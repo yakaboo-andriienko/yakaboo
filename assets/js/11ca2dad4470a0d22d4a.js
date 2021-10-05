@@ -1,0 +1,1 @@
+$((function(){$(".oferta").click((function(e){e.preventDefault(),$(".shadow").addClass("active")})),$(".ofert").click((function(e){e.preventDefault(),$(".shadow").addClass("active")})),$(".popup .close").click((function(e){e.preventDefault(),$(".shadow").removeClass("active")}))}));
